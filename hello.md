@@ -4,20 +4,11 @@
 Непонятно совершенно
 print(lambda row)
 
+$(\cfrac{x}{y})^2$
 
 
-
-
-
-
-
-dfgdfg
 Просто здравствуй
 
 __Просто как дела__
-dfgdfg
-dfgdfg
-dfgdfg
-dfgdfg
 
 
