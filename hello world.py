@@ -16,3 +16,5 @@ a, b, c = [3] * 3
 print(a+b+c)
 
 total = [i for i in range(5)]
+
+print(total)
